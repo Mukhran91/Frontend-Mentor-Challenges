@@ -10,6 +10,7 @@
 | #3 | [profile-card](https://github.com/Mukhran91/Frontend-Mentor-Challenges/tree/main/profile-card)  | [Live Demo](https://mukhran91.github.io/Frontend-Mentor-Challenges/profile-card) |
 
 | #4 | [social-proof-section](https://github.com/Mukhran91/Frontend-Mentor-Challenges/tree/main/social-proof-section)  | [Live Demo](https://mukhran91.github.io/Frontend-Mentor-Challenges/social-proof-section) |
+| --- |---|---|
 
 
 
